@@ -1,5 +1,4 @@
 # **Application Security Testing: Concepts and Tools**  
-*Notebook Based on the Lecture Transcript*  
 
 ---
 
