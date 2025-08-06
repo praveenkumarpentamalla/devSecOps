@@ -1,5 +1,3 @@
-# **DevSecOps: Integrating Security into DevOps**  
-*Notebook Based on the Lecture Transcript*  
 
 ---
 
@@ -147,11 +145,3 @@ A **credit card application** must comply with **PCI-DSS**:
 
 ---
 
-### **Visual Summary**  
-![DevSecOps Pipeline](https://www.example.com/devsecops-pipeline.png)  
-
-📌 **Homework**:  
-- Set up a **SAST scan** in a demo GitHub repo.  
-- Try **Snyk** to scan a Python/Java project for vulnerable dependencies.  
-
-See you in the next lecture! 🔒🚀
