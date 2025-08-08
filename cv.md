@@ -1,4 +1,3 @@
-Here's a professionally formatted resume based on the content you provided. This version is clean, ATS-friendly, and highlights your DevSecOps experience effectively.
 
 ---
 
